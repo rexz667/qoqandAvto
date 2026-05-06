@@ -1,0 +1,135 @@
+.container1{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+ background-color: rgb(68, 68, 68);
+   color: aliceblue;
+   border: 1px solid gray;
+   border-radius: 15px;
+}
+.container2{
+    font-size: 24px;
+}
+.container3{
+      display: flex;
+   flex-direction: column;
+   align-items: center;
+      background-color: rgb(68, 68, 68);
+   color: aliceblue;
+   border-radius: 15px;
+    border: 1px solid gray;
+}
+.wrapper{
+    display: flex;
+    gap: 105px;
+    font-size: 25px;
+}
+.container4{
+      display: flex;
+   flex-direction: column;
+   align-items: center;
+      background-color: rgb(68, 68, 68);
+   color: aliceblue;
+   border-radius: 15px;
+    border: 1px solid gray;
+}
+.li3{
+     display: flex;
+    font-size: 25px;
+    gap: 20%;
+}
+.box{
+   width: 250px;
+   height: 150px;
+   background-color: rgba(0,191,255,0.1);
+
+   position: absolute;
+   top: 475px;
+   left: 0px;
+
+    border-radius: 20px;
+    border: 1px solid #00BFFF;
+      box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+}
+.box1{
+   width: 250px;
+   height: 150px;
+
+   background-color: rgba(0,191,255,0.1);
+
+   position: absolute;
+   top: 475px;
+   left: 50vh;
+
+    border-radius: 20px;
+    border: 1px solid #00BFFF;
+     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+}
+.box2{
+   width: 250px;
+   height: 150px;
+   background-color: rgba(0,191,255,0.1);
+
+   position: absolute;
+   top: 475px;
+   left: 104vh;
+
+    border-radius: 20px;
+    border: 1px solid #00BFFF;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+}
+.box3{
+   width: 269px;
+   height: 150px;
+   background-color: rgba(0,191,255,0.1);
+
+   position: absolute;
+   top: 475px;
+   left: 153vh;
+
+   border-radius: 20px;
+   border: 1px solid #00BFFF;
+     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+}
+.box4{
+   width: 445px;
+   height: 132px;
+   background-color: rgba(0,191,255,0.1);
+
+   position: absolute;
+   top: 253px;
+   left: 0vh;
+   border-radius: 20px;
+   border: 1px solid #00BFFF;
+     box-shadow: 15px 0 20px rgba(0, 0, 0, 0.3);
+}
+.box5{
+   width: 380px;
+   height: 132px;
+   background-color: rgba(0,191,255,0.1);
+
+   position: absolute;
+   top: 253px;
+   left: 50vh;
+   border-radius: 20px;
+   border: 1px solid #00BFFF;
+   box-shadow: 15px 0 20px rgba(0, 0, 0, 0.3);
+}
+footer{
+   top: 150%;
+   width: 183vh;
+   background-color: gray;
+
+   position: absolute;
+   top: 89vh;
+   border-radius: 20px;
+   left: 0px;
+}
+a{
+   width: 183vh;
+
+   position: absolute;
+   border-radius: 20px;
+   left: 3px;
+   top: 79%;
+}
